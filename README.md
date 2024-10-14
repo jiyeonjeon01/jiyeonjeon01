@@ -7,7 +7,7 @@
 
 </div>
 
-![jiyeonjeon01's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeonjeon01a&show_icons=true&theme=omni)
+![jiyeonjeon01's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeonjeon01&show_icons=true&theme=omni)
 <!--
 **jiyeonjeon01/jiyeonjeon01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
