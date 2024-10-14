@@ -1,4 +1,8 @@
+<!--
 ## Hi there 👋
+-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFCCDD&background=5CD0FF00&center=true&vCenter=true&width=435&height=60&lines=Welcome+to+jiyeon's+GitHub)](https://git.io/typing-svg)
+
 ![jiyeonjeon01's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=omni)
 <!--
 **jiyeonjeon01/jiyeonjeon01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
