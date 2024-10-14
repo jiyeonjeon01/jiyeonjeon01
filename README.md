@@ -7,6 +7,12 @@
 
 </div>
 
+<h1>Stack</h1>
+<img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white></img>
+
+
+
+
 ![jiyeonjeon01's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeonjeon01&show_icons=true&theme=omni)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeonjeon01&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
