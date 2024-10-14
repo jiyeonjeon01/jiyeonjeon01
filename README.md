@@ -8,6 +8,10 @@
 </div>
 
 ![jiyeonjeon01's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeonjeon01&show_icons=true&theme=omni)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeonjeon01&layout=compact)
+
+
 <!--
 **jiyeonjeon01/jiyeonjeon01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
