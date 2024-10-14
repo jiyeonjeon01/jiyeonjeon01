@@ -52,7 +52,8 @@
 
 
 
-<img src="http://mazandi.herokuapp.com/api?handle=baek001&theme=cold"/>
+<img src="http://mazandi.herokuapp.com/api?handle=jiyeonjeon01&theme=cold"/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=jiyeonjeon01&theme=dark)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeonjeon01)](https://solved.ac/jiyeonjeon01/)
 
