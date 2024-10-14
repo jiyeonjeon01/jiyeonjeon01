@@ -1,6 +1,10 @@
 <!--
 ## Hi there 👋
 -->
+
+작성중 .. 
+
+
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFCCDD&background=5CD0FF00&center=true&vCenter=true&width=435&height=60&lines=Welcome+to+jiyeon's+GitHub)](https://git.io/typing-svg)
