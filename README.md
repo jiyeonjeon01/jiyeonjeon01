@@ -14,7 +14,7 @@
 
 ![jiyeonjeon01's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeonjeon01&show_icons=true&rank_icon=github&theme=omni)
 
--------------------------------
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeonjeon01&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -66,7 +66,7 @@
 
 <img src="http://mazandi.herokuapp.com/api?handle=jiyeonjeon01&theme=cold"/>
 
-----------------------------
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeonjeon01)](https://solved.ac/jiyeonjeon01/)
 
