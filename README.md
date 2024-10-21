@@ -11,14 +11,12 @@
 
 </div>
  
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeonjeon01%2Fjiyeonjeon01&count_bg=%23FFCCDD&title_bg=%23555555&icon=baidu.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)<img alt="GitHub followers" src="https://img.shields.io/github/forks/jiyeonjeon01/jiyeonjeon01">
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeonjeon01%2Fjiyeonjeon01&count_bg=%23FFCCDD&title_bg=%23555555&icon=baidu.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+<img alt="GitHub followers" src="https://img.shields.io/github/forks/jiyeonjeon01/jiyeonjeon01">
 
 --------------------------------
 
 ![jiyeonjeon01's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeonjeon01&show_icons=true&rank_icon=github&theme=omni)
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeonjeon01&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 ---------------------------------
