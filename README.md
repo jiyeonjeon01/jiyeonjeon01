@@ -6,7 +6,7 @@
 
 
 <div align="center">
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFCCDD&background=5CD0FF00&center=true&vCenter=true&width=435&height=60&lines=Welcome+to+jiyeon's+GitHub;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
 </div>
  
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeonjeon01%2Fjiyeonjeon01&count_bg=%23FFCCDD&title_bg=%23555555&icon=baidu.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
