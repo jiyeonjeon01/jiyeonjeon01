@@ -10,6 +10,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFCCDD&background=5CD0FF00&center=true&vCenter=true&width=435&height=60&lines=Welcome+to+jiyeon's+GitHub)
 </div>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFCCDD&title_bg=%23555555&icon=baidu.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 --------------------------------
 
 ![jiyeonjeon01's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeonjeon01&show_icons=true&rank_icon=github&theme=omni)
