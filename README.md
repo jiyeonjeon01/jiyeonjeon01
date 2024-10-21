@@ -6,8 +6,10 @@
 
 
 <div align="center">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeonjeon01&count_bg=%23FFCCDD&title_bg=%23555555&icon=baidu.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+ 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeonjeon01%2Fjiyeonjeon01&count_bg=%23FFCCDD&title_bg=%23555555&icon=baidu.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 --------------------------------
 
 ![jiyeonjeon01's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeonjeon01&show_icons=true&rank_icon=github&theme=omni)
@@ -17,7 +19,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeonjeon01&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 ---------------------------------
-
+<div align="center">
+  
 <h2>Back Lang&Tool</h2>
 <div style="display: flex; flex-wrap: nowrap;">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></img>
@@ -58,6 +61,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></img>
 </div>
 
+</div>
 --------------------------
 
 <img src="http://mazandi.herokuapp.com/api?handle=jiyeonjeon01&theme=cold"/>
