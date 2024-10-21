@@ -10,7 +10,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFCCDD&background=5CD0FF00&center=true&vCenter=true&width=435&height=60&lines=%E2%8C%81%EF%BB%BF+Welcome+to+jiyeon's+GitHub+%E2%8C%81%EF%BB%BF;%E2%80%A2+Let+me+show+you+what+I+made..%3F)](https://git.io/typing-svg)
 
 </div>
- 
+
+특정 repo에 적용하기
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeonjeon01%2Fjiyeonjeon01&count_bg=%23FFCCDD&title_bg=%23555555&icon=baidu.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 <img alt="GitHub followers" src="https://img.shields.io/github/forks/jiyeonjeon01/jiyeonjeon01">
 
