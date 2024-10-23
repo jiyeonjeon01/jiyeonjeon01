@@ -13,9 +13,9 @@
 
 <div>
  네이버 블로그 >>
- [![Blog Badge](https://img.shields.io/badge/-Blog-92a8d1?logo=naver&logoColor=white&link=https://blog.naver.com/yb2316)](https://blog.naver.com/yb2316)
  
- [![Naver Badge](https://img.shields.io/badge/-Naver-1877f2?logo=naver&logoColor=white&link={ https://blog.naver.com/jiyeonjeon01})](https://blog.naver.com/jiyeonjeon01)
+ [![Blog Badge](https://img.shields.io/badge/-Blog-92a8d1?logo=naver&logoColor=white&link=https://blog.naver.com/jiyeonjeon01)](https://blog.naver.com/jiyeonjeon01)
+
 
  
  https://blog.naver.com/jiyeonjeon01
