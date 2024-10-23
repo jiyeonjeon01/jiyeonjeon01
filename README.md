@@ -13,6 +13,7 @@
 
 <div>
  네이버 블로그 >>
+ [![Naver Badge](https://img.shields.io/badge/-Naver-1877f2?logo=naver&logoColor=white&link={ https://blog.naver.com/jiyeonjeon01})]( https://blog.naver.com/jiyeonjeon01})
  https://blog.naver.com/jiyeonjeon01
 </div>
 
@@ -23,10 +24,6 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/forks/jiyeonjeon01/jiyeonjeon01">
  
 </div>
-
-https://github.com/jiyeonjeon01/github-readme-stats
-![jiyeonjeon01's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeonjeon01&show_icons=true&rank_icon=github&theme=jy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeonjeon01&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 ![jiyeonjeon01's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeonjeon01&show_icons=true&rank_icon=github&theme=omni)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeonjeon01&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
