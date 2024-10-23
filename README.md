@@ -9,6 +9,10 @@
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFCCDD&background=5CD0FF00&center=true&vCenter=true&multiline=true&width=500&height=60&lines=%EF%BB%BF%CB%9A*%C2%B7%C2%B0%E2%97%8C%CC%8A+Welcome+to+jiyeon's+GitHub++%E2%97%8C%CC%8A%C2%B0%EF%BB%BF%EF%BB%BF%C2%B7*%CB%9A)](https://git.io/typing-svg)
 
+<div>
+ 네이버 블로그 >>
+ https://blog.naver.com/jiyeonjeon01
+</div>
 
 </div>
 
