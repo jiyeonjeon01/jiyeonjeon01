@@ -80,6 +80,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeonjeon01)](https://solved.ac/jiyeonjeon01/)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeonjeon01&icon_color=1b1819&bg_color=35,ffccdd,ffeac3&title_color=1b1819&text_color=1b1819)](https://solved.ac/jiyeonjeon01/)
 
 
 <!--
