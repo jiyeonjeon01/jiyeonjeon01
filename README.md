@@ -24,8 +24,8 @@
  
 </div>
 
-[![JiyeonJeon's github stats](https://github-readme-stats.vercel.app/api?username=jiyeonjeon01&count_private=true&custom_title=Jiyeon's&nbsp;github&show_icons=true&rank_icon=github&bg_color=35,ffccdd,ffeac3&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeonjeon01&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨&bg_color=35,ffccdd,ffeac3&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![JiyeonJeon's github stats](https://github-readme-stats.vercel.app/api?username=jiyeonjeon01&count_private=true&custom_title=Jiyeon's&nbsp;github&show_icons=true&rank_icon=github&icon_color=1b1819bg_color=35,ffccdd,ffeac3&title_color=1b1819&text_color=1b1819)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeonjeon01&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨&bg_color=35,ffccdd,ffeac3&title_color=1b1819&text_color=1b1819)](https://github.com/anuraghazra/github-readme-stats)
 
 ![jiyeonjeon01's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyeonjeon01&show_icons=true&rank_icon=github&theme=omni)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeonjeon01&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
