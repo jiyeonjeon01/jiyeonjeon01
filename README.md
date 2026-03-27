@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFCCDD&background=5CD0FF00&center=true&vCenter=true&multiline=true&width=500&height=60&lines=%EF%BB%BF%CB%9A*%C2%B7%C2%B0%E2%97%8C%CC%8A+Welcome+to+jiyeon's+GitHub++%E2%97%8C%CC%8A%C2%B0%EF%BB%BF%EF%BB%BF%C2%B7*%CB%9A)](https://git.io/typing-svg)
 
 </div>
+
 <br>
 
 ## 👩‍💻 About Me
@@ -10,29 +11,7 @@
 * **AI & Full-Stack Developer** | 새로운 기술 트렌드를 빠르게 습득하고 실전 파이프라인에 적용하는 것을 즐깁니다.
 * **AI Models & RAG** | 폐쇄망 내부 환경 설치를 고려한 Llama, Nemotron 등 로컬 대형 언어 모델 및 VLM을 활용한 RAG 챗봇, 자동 보고서 생성 시스템 구축 경험이 있습니다.
 * **Data Engineering** | 비동기 뉴스 크롤러, OCR 기반 구조화 파이프라인, 실시간 웹소켓(WebSocket) 데이터 모니터링 서버 등을 설계합니다.
-* **Collaboration & UI/UX** | 기획 단계부터 Figma를 다루며, React 및 Tailwind 기반의 직관적인 프론트엔드 환경을 구축하는 풀스택 개발을 지향합니다.
-
----
-
-## 🚀 Key Projects 
-
-* 🛡️ **ROKA-MP (군 안전 문서 챗봇 및 AI 보고서 생성 웹)**
-  * **Role:** AI 챗봇 및 데이터 업로드 파이프라인 풀스택 개발
-  * **Tech:** Python, FastAPI, React, PostgreSQL, Qdrant, Nemotron-49B, Llama-3-Vision
-  * **Details:** 비전 언어 모델(VLM)을 이용한 멀티모달 데이터 문서 분석 및 RAG 기반 지능형 챗봇 개발, AI 기반 구조화된 군사 보고서 초안 자동 구축 시스템 개발.
-
-* 🎮 **Brick Watch Hub (강화학습 RL 모니터링 대시보드)** 
-  * **Role:** 강화학습 환경 구축 및 스트리밍 시스템 개발
-  * **Tech:** FastAPI, PyTorch(DQN), WebSockets, React, OpenCV
-  * **Details:** AI 통합 에이전트(Breakout)가 환경을 학습하는 화면과 보상(Reward) 로그를 WebSocket을 통해 프론트엔드로 지연 없이 전송하는 실시간 시스템 구축.
-
-* 📰 **AI Smart OCR Solution 웹**
-  * **Tech:** FastAPI, Python, React, EasyOCR, Tesseract, OCRmyPDF
-  * **Details:** 뉴스 기사/이미지 문서를 텍스트로 레이아웃 파싱 후 다운로드 가능한 JSON으로 변환하거나 검색 및 드래그가 가능한 Searchable PDF로 생성하는 통합 AI 파이프라인 구축.
-
-* 🕷️ **자동화 뉴스 크롤링 모니터링 시스템**
-  * **Tech:** Python, FastAPI, PostgreSQL (pg8000), BeautifulSoup4
-  * **Details:** BackgroundTasks를 활용한 비동기식 기사 크롤링(복합 키워드 기반 매핑) 파이프라인 개발 및 한글/특수문자 중복 차단 적재 데이터베이스 설계.
+* **Collaboration & AI Tools** | Cursor, Lovable 등 최신 AI 개발 툴을 다루어 생산성을 극대화하며, 기획 단계부터 Figma를 활용한 유려한 프론트엔드 구축을 지향합니다.
 
 ---
 
@@ -55,6 +34,7 @@
 ### 🤖 AI Models & Database
 <div style="display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 20px;">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Hugging_Face-FFAA21?style=for-the-badge&logo=huggingface&logoColor=white">
@@ -86,6 +66,8 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white">
+  <img src="https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </div>
