@@ -11,7 +11,7 @@
 * **AI & Full-Stack Developer** | 새로운 기술 트렌드를 빠르게 습득하고 실전 파이프라인에 적용하는 것을 즐깁니다.
 * **AI Models & RAG** | 폐쇄망 내부 환경 설치를 고려한 Llama, Nemotron 등 로컬 대형 언어 모델 및 VLM을 활용한 RAG 챗봇, 자동 보고서 생성 시스템 구축 경험이 있습니다.
 * **Data Engineering** | 비동기 뉴스 크롤러, OCR 기반 구조화 파이프라인, 실시간 웹소켓(WebSocket) 데이터 모니터링 서버 등을 설계합니다.
-* **Collaboration & AI Tools** | Cursor, Lovable 등 최신 AI 개발 툴을 다루어 생산성을 극대화하며, 기획 단계부터 Figma를 활용한 유려한 프론트엔드 구축을 지향합니다.
+* **Collaboration & AI Tools** | Cursor, Lovable 등 최신 AI 개발 툴을 다루어 생산성을 극대화하며, 기획 단계부터 유려한 프론트엔드 구축을 지향합니다.
 
 ---
 
