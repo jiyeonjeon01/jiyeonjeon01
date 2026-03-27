@@ -3,27 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFCCDD&background=5CD0FF00&center=true&vCenter=true&multiline=true&width=500&height=60&lines=%EF%BB%BF%CB%9A*%C2%B7%C2%B0%E2%97%8C%CC%8A+Welcome+to+jiyeon's+GitHub++%E2%97%8C%CC%8A%C2%B0%EF%BB%BF%EF%BB%BF%C2%B7*%CB%9A)](https://git.io/typing-svg)
 
 </div>
-
-<div align="center">
- 
- [![Blog Badge](https://img.shields.io/badge/-Blog-08c421?logo=naver&logoColor=white&link=https://blog.naver.com/jiyeonjeon01)](https://blog.naver.com/jiyeonjeon01)
- 
-</div>
-
-<div align="center">
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeonjeon01%2Fjiyeonjeon01&count_bg=%23FFCCDD&title_bg=%23555555&icon=baidu.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
-<img alt="GitHub followers" src="https://img.shields.io/github/forks/jiyeonjeon01/jiyeonjeon01">
- 
-</div>
-
-<div align="center">
-
-[![JiyeonJeon's github stats](https://github-readme-stats.vercel.app/api?username=jiyeonjeon01&count_private=true&custom_title=Jiyeon's&nbsp;github&show_icons=true&rank_icon=github&icon_color=1b1819&bg_color=35,ffccdd,ffeac3&title_color=1b1819&text_color=1b1819)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeonjeon01&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨&bg_color=35,ffeac3,ffccdd&title_color=1b1819&text_color=1b1819)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
 <br>
 
 <div align="center">
@@ -115,10 +94,3 @@
 
 --------------------------
 
-<div align="center">
-  <img src="http://mazandi.herokuapp.com/api?handle=jiyeonjeon01&theme=cold"/> 
-  <br>
-  <a href="https://solved.ac/jiyeonjeon01/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeonjeon01" alt="Solved.ac Profile">
-  </a>
-</div>
