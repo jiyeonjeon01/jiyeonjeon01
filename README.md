@@ -15,13 +15,6 @@
  
 </div>
 
-<div align="center">
-
-[![JiyeonJeon's github stats](https://github-readme-stats.vercel.app/api?username=jiyeonjeon01&count_private=true&custom_title=Jiyeon's&nbsp;github&show_icons=true&rank_icon=github&icon_color=1b1819&bg_color=35,ffccdd,ffeac3&title_color=1b1819&text_color=1b1819)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeonjeon01&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨&bg_color=35,ffeac3,ffccdd&title_color=1b1819&text_color=1b1819)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
 ---------------------------------
 <div align="center">
   
@@ -79,10 +72,3 @@
 </div>
 
 --------------------------
-<div align="center">
-  <img src="http://mazandi.herokuapp.com/api?handle=jiyeonjeon01&theme=cold"/> 
-  <br>
-  <a href="https://solved.ac/jiyeonjeon01/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyeonjeon01" alt="Solved.ac Profile">
-  </a>
-</div>
